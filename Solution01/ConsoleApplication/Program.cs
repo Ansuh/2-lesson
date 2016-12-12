@@ -13,6 +13,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             var obj = new Test();
+            obj.DoWord();
         }
     }
 }
