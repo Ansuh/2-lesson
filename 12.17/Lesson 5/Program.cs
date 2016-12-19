@@ -3,18 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ClassLibrary1;
 
-
-namespace ConsoleApplication
+namespace Lesson_5
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a = 2;
-            var obj = new Test();
-            obj.DoWord();
         }
     }
 }
