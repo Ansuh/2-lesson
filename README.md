@@ -1,6 +1,6 @@
 # BetConstruct Internship
 
-There are useful examples for "C# and .NET Framework" syllabus.
+_There are useful examples for BetConstruct Internship Training syllabus.
 
 
 
