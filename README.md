@@ -1,2 +1,2 @@
-# 2-lesson
-Intership
+# BetConstruct Internship
+
